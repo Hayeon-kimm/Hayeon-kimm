@@ -1,4 +1,13 @@
-### Hi there 👋
+# Ha Yeon Kim
+## _UNIST CSE, LAIT_LAB_
+
+I'm interseted in
+- Style transfer / Photorealitic style transfer🌃
+- GAN manipulation✒️
+- Generative model🌟
+
+##### contact📩
+rlagkdus705@unist.ac.kr
 
 <!--
 **Hayeon-kimm/Hayeon-kimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
