@@ -6,6 +6,12 @@ I'm interseted in
 - GAN manipulation✒️
 - Generative model🌟
 
+My project is
+- Real time style transfer
+- StyleMapGAN(ing)
+- Implement NL-MAT(ing)
+
+
 ##### contact📩
 rlagkdus705@unist.ac.kr
 
