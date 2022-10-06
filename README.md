@@ -3,12 +3,13 @@
 
 I'm interseted in
 - Style transfer / Photorealitic style transfer🌃
-- GAN manipulation✒️
+- GAN manipulation✒️ / GAN Inversion
+- Face detection / editing
 - Generative model🌟
 
 My project is
 - Real time style transfer
-- StyleMapGAN(ing)
+- MobileFaceSwap
 - Implement NL-MAT(ing)
 
 
