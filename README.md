@@ -1,16 +1,5 @@
 # Ha Yeon Kim
-## _UNIST CSE, LAIT_LAB_
-
-I'm interseted in
-- Style transfer / Photorealitic style transfer🌃
-- GAN manipulation✒️ / GAN Inversion
-- Face detection / editing
-- Generative model🌟
-
-My project is
-- Real time style transfer
-- MobileFaceSwap
-- Implement NL-MAT(ing)
+## _UNIST AIGS, LAIT_LAB_
 
 
 ##### contact📩
